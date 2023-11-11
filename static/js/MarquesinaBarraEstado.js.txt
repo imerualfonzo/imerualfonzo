@@ -1,0 +1,109 @@
+<head>
+<script language="JavaScript" type="text/javascript">
+
+<!-- Hide the script from old browsers --
+
+
+
+/* Michael P. Scholtis (mpscho@planetx.bloomu.edu)
+
+   All rights reserved.  December 30, 1995
+
+   You may use this JavaScript example as you see fit, as long as the
+
+   information within this comment above is included in your script.
+
+*/
+
+
+
+function scrollit(seed)
+
+{
+
+   var m1  =  " Aquí insertas el texto que deseas que aparezca en la barra de estado ";
+
+   var msg=m1;
+
+   var out = " ";
+
+   var c = 0;
+
+
+
+   if (seed > 100)
+
+     {
+
+     seed--;
+
+     var cmd="scrollit(" + seed + ")";
+
+     timerTwo=window.setTimeout(cmd,7);
+
+     }
+
+   else
+
+     if (seed <= 100 && seed > 0)
+
+       {
+
+       for (c=0 ; c < seed ; c++)
+
+         {
+
+         out+=" ";
+
+         }
+
+       out+=msg;
+
+       seed--;
+
+       var cmd="scrollit(" + seed + ")";
+
+       window.status=out;
+
+       timerTwo=window.setTimeout(cmd,7);
+
+       }
+
+     else if (seed <= 0)
+
+       {
+
+       if (-seed < msg.length)
+
+         {
+
+         out+=msg.substring(-seed,msg.length);
+
+         seed--;
+
+         var cmd="scrollit(" + seed + ")";
+
+         window.status=out;
+
+         timerTwo=window.setTimeout(cmd,7);
+
+         }
+
+       else
+
+         {
+
+         window.status=" ";
+
+         timerTwo=window.setTimeout("scrollit(100)",75);
+
+         }
+
+       }
+
+}
+
+// --End Hiding Here -->
+
+</script>
+</head>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Imerú Alfonzo</title>
+    <link>https://www.imerualfonzo.com/categories/</link>
+    <description>Recent content in Categories on Imerú Alfonzo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ve</language>
+    <lastBuildDate>Fri, 01 May 2020 08:00:00 +0000</lastBuildDate><atom:link href="https://www.imerualfonzo.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ecoturismo</title>
+      <link>https://www.imerualfonzo.com/categories/ecoturismo/</link>
+      <pubDate>Fri, 01 May 2020 08:00:00 +0000</pubDate>
+      
+      <guid>https://www.imerualfonzo.com/categories/ecoturismo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geociencias</title>
+      <link>https://www.imerualfonzo.com/categories/geociencias/</link>
+      <pubDate>Thu, 09 Jan 2020 02:21:52 +0000</pubDate>
+      
+      <guid>https://www.imerualfonzo.com/categories/geociencias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preparación</title>
+      <link>https://www.imerualfonzo.com/categories/preparaci%C3%B3n/</link>
+      <pubDate>Mon, 30 Dec 2019 01:01:00 +0000</pubDate>
+      
+      <guid>https://www.imerualfonzo.com/categories/preparaci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Voluntariado</title>
+      <link>https://www.imerualfonzo.com/categories/voluntariado/</link>
+      <pubDate>Fri, 04 Jan 2019 23:18:27 +0000</pubDate>
+      
+      <guid>https://www.imerualfonzo.com/categories/voluntariado/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

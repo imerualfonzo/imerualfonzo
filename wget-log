@@ -1,0 +1,11 @@
+--2022-12-04 20:25:49--  https://raw.githubusercontent.com/laurent22/joplin/dev/Joplin_install_and_update.sh
+Resolviendo raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.111.133, 185.199.110.133, 185.199.108.133, ...
+Conectando con raw.githubusercontent.com (raw.githubusercontent.com)[185.199.111.133]:443... conectado.
+Petición HTTP enviada, esperando respuesta... 200 OK
+Longitud: 9805 (9,6K) [text/plain]
+Guardando como: ‘STDOUT’
+
+-                     0%[                    ]       0  --.-KB/s               -                   100%[===================>]   9,58K  --.-KB/s    en 0,008s  
+
+2022-12-04 20:25:50 (1,15 MB/s) - escritos a stdout [9805/9805]
+

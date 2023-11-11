@@ -1,0 +1,45 @@
+<body>
+<script language="JavaScript" type="text/javascript">
+var speed = 50 
+var pause = 1500
+var timerID = null
+var bannerRunning = false
+var ar = new Array()
+ar[0] = "aquí escribes lo que deseas"
+ar[1] = "modifica este script para tu uso"
+ar[2] = "incluye este script en la etiqueta head"
+ar[3] = "marquesina..................."
+var currentMessage = 0
+var offset = 0
+function stopBanner() {
+if (bannerRunning)
+clearTimeout(timerID)
+bannerRunning = false
+}
+function startBanner() {
+stopBanner()
+showBanner()
+}
+function showBanner() {
+var text = ar[currentMessage]
+if (offset < text.length) {
+if (text.charAt(offset) == " ")
+offset++ 
+var partialMessage = text.substring(0, offset + 1) 
+window.status = partialMessage
+offset++ // IE sometimes has trouble with "++offset"
+timerID = setTimeout("showBanner()", speed)
+bannerRunning = true
+} else {
+offset = 0
+currentMessage++
+if (currentMessage == ar.length)
+currentMessage = 0
+timerID = setTimeout("showBanner()", pause)
+bannerRunning = true
+}
+}
+startBanner();
+// -->
+</script>
+</body>

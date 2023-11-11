@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>orientación on Imerú Alfonzo</title>
+    <link>https://www.imerualfonzo.com/tags/orientaci%C3%B3n/</link>
+    <description>Recent content in orientación on Imerú Alfonzo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ve</language>
+    <lastBuildDate>Thu, 01 Jul 2010 09:09:00 +0000</lastBuildDate><atom:link href="https://www.imerualfonzo.com/tags/orientaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El GPS</title>
+      <link>https://www.imerualfonzo.com/post/el-gps/</link>
+      <pubDate>Thu, 01 Jul 2010 09:09:00 +0000</pubDate>
+      
+      <guid>https://www.imerualfonzo.com/post/el-gps/</guid>
+      <description>El GPS (Sistema de posicionamiento global) es un instrumento que permite por medio de la recepción de señales de satelites y de complejos algoritmos internos, conocer la ubicación geográfica en la cual se está ubicado, Latitud, Longitud y Altura, así como realizar y obtener cálculos de navegación y orientación, como calcular la velocidad, ruta a diferentes lugares, ubicación de puntos, cálculos de área, realizar poligonales, etc.
+Este es usado para georeferenciar objetos, muestras, o puntos de interés dentro de un trabajo de campo, Este sistema, usado conjuntamente con un SIG (GIS) permite en la oficina o en campo a través de una portátil llevar la información de campo a la computadora y de esta forma tomar mejores decisiones para la proxima salida y terminar de manera más eficiente el trabajo.</description>
+    </item>
+    
+  </channel>
+</rss>
