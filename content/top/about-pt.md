@@ -1,3 +1,9 @@
++++
+alt = "Imerú Alfonzo Hernández" 
+date = "1990-01-01 22:01:53"
+title = "Imerú Alfonzo Hernández"
+draft = false 
++++
 # Imerú Alfonzo-Hernández  
 Ele é um democrata e libertário venezuelano, que desenvolveu desde cedo uma grande paixão pela natureza. Ele é geólogo da Universidade Central da Venezuela com ensino superior e se dedica há mais de 30 anos à luta pelo bem-estar sustentável e pelos direitos de todos os seres vivos. Ele é um desenvolvedor de perspectivas de ecoturismo, a fim de preservar o meio ambiente, disseminar e sensibilizar o conhecimento ecológico para os cidadãos, uma vez que ele sente que somente a partir do empoderamento dos cidadãos é possível que todos os seres humanos sejam capazes de sair da pobreza, e tornar sustentável a nossa passagem pelo planeta terra. 
 Ao longo de sua vida, ele se desenvolveu extraordinariamente como explorador de áreas remotas e expedicionário, é instrutor e guia de montanhas, e um guia consagrado e instrutor de espeleólogos. Lecionou nas melhores instituições de estudos da Venezuela e publicou dezenas de trabalhos científicos e informativos. 
